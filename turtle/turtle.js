@@ -7,7 +7,6 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
 
-// import * as THREE from "./three.js";
 class turtle {
   constructor(CP, CD) {
     //CURRENT POINT
