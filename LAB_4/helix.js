@@ -7,7 +7,6 @@ document.body.appendChild(renderer.domElement);
 
 
 
-// START Helix
 const geometry = new THREE.BufferGeometry();
 
 let point=[];
