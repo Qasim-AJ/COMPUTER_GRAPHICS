@@ -1,4 +1,3 @@
-// Optimize the code
 
 import * as THREE from 'three';
 
