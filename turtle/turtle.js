@@ -1,4 +1,3 @@
-//add test comment
 
 import * as THREE from 'three';
 
